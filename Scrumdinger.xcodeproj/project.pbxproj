@@ -19,6 +19,7 @@
 		B01F9CFD299AF5B50098F931 /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B01F9CFC299AF5B50098F931 /* CardView.swift */; };
 		B01F9CFF299AF8EC0098F931 /* TrailingIconLabelStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = B01F9CFE299AF8EC0098F931 /* TrailingIconLabelStyle.swift */; };
 		B01F9D01299AFC880098F931 /* ScrumsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B01F9D00299AFC880098F931 /* ScrumsView.swift */; };
+		B01F9D03299B041C0098F931 /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B01F9D02299B041C0098F931 /* DetailView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,6 +55,7 @@
 		B01F9CFC299AF5B50098F931 /* CardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
 		B01F9CFE299AF8EC0098F931 /* TrailingIconLabelStyle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrailingIconLabelStyle.swift; sourceTree = "<group>"; };
 		B01F9D00299AFC880098F931 /* ScrumsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrumsView.swift; sourceTree = "<group>"; };
+		B01F9D02299B041C0098F931 /* DetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,6 +114,7 @@
 				B01F9CFC299AF5B50098F931 /* CardView.swift */,
 				B01F9CFE299AF8EC0098F931 /* TrailingIconLabelStyle.swift */,
 				B01F9D00299AFC880098F931 /* ScrumsView.swift */,
+				B01F9D02299B041C0098F931 /* DetailView.swift */,
 			);
 			path = Scrumdinger;
 			sourceTree = "<group>";
@@ -281,6 +284,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B01F9CFD299AF5B50098F931 /* CardView.swift in Sources */,
+				B01F9D03299B041C0098F931 /* DetailView.swift in Sources */,
 				B01F9CFF299AF8EC0098F931 /* TrailingIconLabelStyle.swift in Sources */,
 				B01F9CFB299AF4410098F931 /* DailyScrum.swift in Sources */,
 				B01F9D01299AFC880098F931 /* ScrumsView.swift in Sources */,
