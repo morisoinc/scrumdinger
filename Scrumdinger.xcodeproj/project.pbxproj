@@ -29,6 +29,7 @@
 		B06BE059299BEE4000F157A7 /* ScrumTimer.swift in Sources */ = {isa = PBXBuildFile; fileRef = B06BE057299BEE4000F157A7 /* ScrumTimer.swift */; };
 		B075DCE5299C02F80073DECE /* MeetingFooterView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B075DCE4299C02F80073DECE /* MeetingFooterView.swift */; };
 		B08ACBFF299C08BA00E3598D /* ding.wav in Resources */ = {isa = PBXBuildFile; fileRef = B08ACBFE299C08BA00E3598D /* ding.wav */; };
+		B08ACC01299C0D6B00E3598D /* History.swift in Sources */ = {isa = PBXBuildFile; fileRef = B08ACC00299C0D6B00E3598D /* History.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -74,6 +75,7 @@
 		B06BE057299BEE4000F157A7 /* ScrumTimer.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ScrumTimer.swift; sourceTree = "<group>"; };
 		B075DCE4299C02F80073DECE /* MeetingFooterView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MeetingFooterView.swift; sourceTree = "<group>"; };
 		B08ACBFE299C08BA00E3598D /* ding.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = ding.wav; sourceTree = "<group>"; };
+		B08ACC00299C0D6B00E3598D /* History.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = History.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -176,6 +178,7 @@
 				B06BE056299BEE4000F157A7 /* AVPlayer+Ding.swift */,
 				B06BE057299BEE4000F157A7 /* ScrumTimer.swift */,
 				B01F9CFA299AF4410098F931 /* DailyScrum.swift */,
+				B08ACC00299C0D6B00E3598D /* History.swift */,
 			);
 			path = Models;
 			sourceTree = "<group>";
@@ -319,6 +322,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B08ACC01299C0D6B00E3598D /* History.swift in Sources */,
 				B06BE051299BC14400F157A7 /* ThemePicker.swift in Sources */,
 				B06BE055299BE9E100F157A7 /* ScrumProgressViewStyle.swift in Sources */,
 				B01F9CFD299AF5B50098F931 /* CardView.swift in Sources */,
