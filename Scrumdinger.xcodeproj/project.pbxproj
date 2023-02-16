@@ -30,6 +30,7 @@
 		B075DCE5299C02F80073DECE /* MeetingFooterView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B075DCE4299C02F80073DECE /* MeetingFooterView.swift */; };
 		B08ACBFF299C08BA00E3598D /* ding.wav in Resources */ = {isa = PBXBuildFile; fileRef = B08ACBFE299C08BA00E3598D /* ding.wav */; };
 		B08ACC01299C0D6B00E3598D /* History.swift in Sources */ = {isa = PBXBuildFile; fileRef = B08ACC00299C0D6B00E3598D /* History.swift */; };
+		B08ACC03299C10F900E3598D /* ScrumStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = B08ACC02299C10F900E3598D /* ScrumStore.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -76,6 +77,7 @@
 		B075DCE4299C02F80073DECE /* MeetingFooterView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MeetingFooterView.swift; sourceTree = "<group>"; };
 		B08ACBFE299C08BA00E3598D /* ding.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = ding.wav; sourceTree = "<group>"; };
 		B08ACC00299C0D6B00E3598D /* History.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = History.swift; sourceTree = "<group>"; };
+		B08ACC02299C10F900E3598D /* ScrumStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrumStore.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -179,6 +181,7 @@
 				B06BE057299BEE4000F157A7 /* ScrumTimer.swift */,
 				B01F9CFA299AF4410098F931 /* DailyScrum.swift */,
 				B08ACC00299C0D6B00E3598D /* History.swift */,
+				B08ACC02299C10F900E3598D /* ScrumStore.swift */,
 			);
 			path = Models;
 			sourceTree = "<group>";
@@ -326,6 +329,7 @@
 				B06BE051299BC14400F157A7 /* ThemePicker.swift in Sources */,
 				B06BE055299BE9E100F157A7 /* ScrumProgressViewStyle.swift in Sources */,
 				B01F9CFD299AF5B50098F931 /* CardView.swift in Sources */,
+				B08ACC03299C10F900E3598D /* ScrumStore.swift in Sources */,
 				B01F9D03299B041C0098F931 /* DetailView.swift in Sources */,
 				B06BE053299BE6CF00F157A7 /* MeetingHeaderView.swift in Sources */,
 				B075DCE5299C02F80073DECE /* MeetingFooterView.swift in Sources */,
